@@ -1,0 +1,43 @@
+nav {
+  background-color: #ffffff;
+  padding: 1rem 2rem;
+  border-bottom: 2px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  z-index: 100;
+  box-sizing: border-box;
+}
+
+nav h2 {
+  color: #333;
+  margin: 0;
+  font-size: 1.6rem;
+  font-weight: 700;
+}
+
+.nav-links-cart {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0077cc;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+nav a:hover {
+  color: #005fa3;
+}

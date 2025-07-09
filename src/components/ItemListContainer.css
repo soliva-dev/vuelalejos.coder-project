@@ -1,0 +1,14 @@
+.item-list {
+  padding: 2rem;
+  text-align: center;
+  margin-top: 4.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.item-list h3 {
+  color: #333;
+  font-size: 1.8rem;
+}
