@@ -7,9 +7,9 @@ const NavBar = () => {
       <h2>VuelaLejos</h2>
       <div className="nav-links-cart">
         <div className="nav-links">
-          <a>Viajes</a>
-          <a>Hospedajes</a>
-          <a>Paquetes</a>
+          <a href="#">Viajes</a>
+          <a href="#">Hospedajes</a>
+          <a href="#">Paquetes</a>
         </div>
         <CartWidget />
       </div>
