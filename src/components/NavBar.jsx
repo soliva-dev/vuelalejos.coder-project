@@ -4,7 +4,7 @@ import CartWidget from "./CartWidget"
 const NavBar = () => {
   return (
     <nav>
-      <h2>VuelaLejos</h2>
+      <h2>VuelaLejos 🚀</h2>
       <div className="nav-links-cart">
         <div className="nav-links">
           <a href="#">Viajes</a>
